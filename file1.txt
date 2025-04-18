@@ -7,3 +7,6 @@ this is second line
 
 
 this is again new line
+
+
+this is again conflict
