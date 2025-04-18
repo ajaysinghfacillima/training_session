@@ -5,9 +5,8 @@ this is new line.
 
 this is second line
 
-<<<<<<< HEAD
-this is new line again.
-=======
 
 this is again new line
->>>>>>> new-dev
+
+
+this is again conflict
