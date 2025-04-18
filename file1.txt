@@ -9,6 +9,10 @@ this is second line
 this is again new line
 
 
+<<<<<<< HEAD
 this is again conflict
 
 this is again new conflict
+=======
+this is again conflict
+>>>>>>> new-dev
