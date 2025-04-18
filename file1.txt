@@ -4,3 +4,6 @@ this is file 1
 this is new line.
 
 this is second line
+
+
+this is again new line
