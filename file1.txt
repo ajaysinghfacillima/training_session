@@ -10,19 +10,14 @@ this is again new line
 
 
 this is again conflict
-<<<<<<< HEAD
-
 this is again new conflict
 this is again conflict
 
 
 dfsdfsjadfhjsdhf;kjashf
-=======
 asdfjkhgljasdkhf
-
-
 sdfsdfdsfdfssdfsfsdf
-
-
 asdasdasdas
->>>>>>> new-dev
+
+
+sdfsdfsdfwerttrt
